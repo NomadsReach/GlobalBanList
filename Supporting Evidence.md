@@ -17,3 +17,4 @@ USER: 1097490374773186632 Reason of List Addition: "discord user is "sistersexua
 [Original Pull Request](https://github.com/NomadsReach/GlobalBanList/pull/4)
 
 ---
+471341101379485707 - Confirmed spam bot account. [Source](https://raw.githubusercontent.com/NomadsReach/GlobalBanList/main/Evidence%20Dump/Images/471341101379485707.png)
